@@ -638,7 +638,7 @@ html {
   {
       width: 300px;
       height: 450px;
-      margin: 15px 15px 15px 0px;
+      margin: 17px 17px 17px 0px;
   }
 
   /* about end */
@@ -650,7 +650,7 @@ html {
     height: 500px;
     margin: 10px;
     background: #1D212B;
-    margin-left: 50px;
+    margin: 0 auto;
   }
   
   .img-slider .slide{
@@ -868,15 +868,9 @@ html {
 }
 
 @media screen and (max-width: 500px) {
-    .responsive {
-        padding: 0px 20px;
-    }
-
-    .responsive img 
-    {
-        width: 100%;
-        height: auto;
-    }
+    .img__in__text {
+        margin-left: 25px;
+    }    
 }
 
 
