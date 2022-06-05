@@ -1,0 +1,27 @@
+.regulations__list
+{
+    list-style: decimal;
+    margin-left: 30px;
+}
+
+.main__text
+{
+    margin-bottom: 10px;
+    font-weight: 400;
+    color: #484848;
+    font-size: 18px;
+    text-align: left;
+    line-height: 2em
+}
+
+
+.regulations__info  
+{
+    margin-bottom: 30px;
+}
+
+
+.numbered__list
+{
+    list-style: decimal;
+}
